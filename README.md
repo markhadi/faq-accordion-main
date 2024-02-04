@@ -14,7 +14,7 @@ Users should be able to:
 # Links
 
 - Solution URL: https://github.com/markhadi/faq-accordion-main
-- Live Site URL:
+- Live Site URL: https://markhadi.github.io/faq-accordion-main/
 
 # Author
 
