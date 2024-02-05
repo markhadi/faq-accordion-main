@@ -267,13 +267,13 @@ body {
   max-height: 230px;
 }
 
-.faq-item > .faq-question > .question-link > .question-icon > .icon-minus,
-.show > .faq-question > .question-link > .question-icon > .icon-plus {
+.faq-item > .question-link > .question-icon > .icon-minus,
+.show > .question-link > .question-icon > .icon-plus {
   position: absolute;
   transform: scale(0);
 }
 
-.show > .faq-question > .question-link > .question-icon > .icon-minus {
+.show > .question-link > .question-icon > .icon-minus {
   position: relative;
   transform: scale(1);
 }
